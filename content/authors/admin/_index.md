@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Alex Johnson
+title: Jacqueline Ristola
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Jacqueline
+last_name: Ristola
 
 # Pronouns (optional)
-pronouns: he/him
+pronouns: she/her
 
 # Status emoji
 status:
-  icon: 🚀
+  icon: 🔰
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,83 +23,82 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Lecturer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Department of Film and Television, University of Bristol
+    url: bristol.ac.uk/film
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'jacqueline.ristola@bristol.ac.uk'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com/Jacqueline_Ristola
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://www.linkedin.com/in/jacquelineristola/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: https://scholar.google.com/citations?user=63jjYL4AAAAJ&hl=en&oi=ao
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0000-0003-2186-8717
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Animation
+  - Aesthetics
+  - Queer and Trans Theory
+  - Media Industries
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
+  - area: PhD in Film and Moving Image Studies
+    institution: Concordia University
     icon: ""
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+    date_start: 2017-09-01
+    date_end: 2022-09-01
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
+      Thesis title: “Cartoon Networks: Animation and Conglomeration from Turner to AT&T”. Supervised by Prof. Marc Steinberg.
     button:
       text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
+      url: 'https://spectrum.library.concordia.ca/id/eprint/990852/'
+  - area: Graduate Diploma in Asian Studies
+    institution: York Centre for Asian Research, York University
     icon: ""
-    date_start: 2013-09-01
-    date_end: 2015-05-31
-    summary: |
-      GPA: 4.0/4.0
-
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
+    date_start: 2015-09-01
+    date_end: 2017-05-31
+  - area: MA in Cinema and Media Studies 
+    institution: York University
+    icon: ""
+    date_start: 2015-09-01
+    date_end: 2017-05-31
+  - area: BA in Film and Media Studies (with Honours)
+    institution: Calvin University
     icon: ""
     date_start: 2009-09-01
-    date_end: 2013-05-31
+    date_end: 2015-01-31
     summary: |
-      GPA: 3.9/4.0
+      GPA: 3.695/4.0
 
-      Minored in Mathematics. President of AI Club.
+      Minored in Literature. President of Film Arts Committee.
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
+  - position: Lab Coordinator
+    company_name: The Platform Lab
+    company_url: 'https://www.theplatformlab.com/'
     icon: ''
-    date_start: 2020-01-01
-    date_end: ''
-    summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
+    date_start: 2019-09-01
+    date_end: 2021-04-01
+    summary: |
+      Co-organized research and events for the lab.
+  - position: Research Assistant
+    company_name: Concordia University
+    company_url: 'concordia.ca'
     icon: ''
-    date_start: 2019-06-01
+    date_start: 2017-09-01
     date_end: 2019-12-31
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Worked on research projects with multiple faculty across the university
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -146,27 +145,35 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Best Paper Award
-    url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
-    icon: hero/trophy
-    summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
+  - title: Career Development Horizon Europe Fund 2025
+    url: https://research-information.bris.ac.uk/en/projects/erc-starting-grant-bid-preparation-animating-queerness/
+    date: '2025'
+    awarder: University of Bristol
     icon: hero/currency-dollar
     summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
+      £2.5K funding to develop an application for the Horizon Europe ERC Starting Grant.
+  - title:  Animation Educators Forum Faculty Grant, $526.47 USD
+    url: https://web.archive.org/web/20240913140845/https://www.asifa-hollywood.org/2024-aef-faculty-grants-recipients-announced/
+    date: '2024'
+    awarder: ASIFA-Hollywood
+    icon: hero/currency-dollar
+    summary: |
+      $500 grant for research on queer animation.
+  - title: The transnational circulation of the aesthetic of Japanese animation: a study of three key moments
+    url: https://doi.org/10.69777/268633
+    date: '2019'
+    awarder: Fonds de recherche du Québec – Société et culture
     icon: hero/academic-cap
     summary: |
-      Recognized for contributions to scaling laws in deep learning.
+       $70,000 CAD provincial Award for dissertation research.
+   - title: Maureen Furniss Best Student Essay Award	
+    url: https://research-information.bris.ac.uk/en/prizes/maureen-furniss-best-student-essay-award/
+    date: '2017'
+    awarder: Society for Animation Studies
+    icon: hero/academic-cap
+    summary: |
+      Inaugural award winner for best student essay on animated media.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+Jacqueline Ristola is a Lecturer in the Film and Television department at the University of Bristol, where she researches all things animation.
+
